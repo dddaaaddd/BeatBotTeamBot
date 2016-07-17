@@ -67,7 +67,7 @@ local function do_keyboard_channel()
 
     },
 		{
-					{text = 'News Channel 🗣', url = = 'https://telegram.me/MAXTEAMNEWS'};
+					{text = 'News Channel 🗣', url =  'https://telegram.me/MAXTEAMNEWS'};
 		},
 		{
 	    {text = '🔙', callback_data = '!home'},
